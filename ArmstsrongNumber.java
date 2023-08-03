@@ -23,7 +23,7 @@ return true;
 else return false;   
 }   
 
-public static void ArmstsrongNumberExample(String args[])     
+public static void main(String args[])     
 {     
 int num;   
 Scanner sc= new Scanner(System.in);  
